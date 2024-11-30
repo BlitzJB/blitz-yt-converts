@@ -1,3 +1,4 @@
 streamlit==1.31.1
 yt-dlp>=2024.3.10
-ffmpeg-python==0.2.0 
+ffmpeg-python==0.2.0
+ytmusicapi==1.5.2
